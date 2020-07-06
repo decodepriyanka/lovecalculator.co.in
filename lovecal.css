@@ -1,0 +1,21 @@
+body{
+        background-color: #ff4c68;
+
+}
+h2{
+  margin-top: 60px;
+  text-align: center;
+      font-family: 'Montserrat-block', sans-serif;
+  color: #fff;
+  font-style: italic;
+  font-weight: bolder;
+  font-size: 2rem;
+
+
+}
+h5{
+  font-family: Regular 400;
+font-style: italic;
+font-weight: bolder;
+text-align: center;
+} 
